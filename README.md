@@ -23,7 +23,7 @@ To deploy this project run
   add project to path C:\xampp\htdocs
 ```
 ```bash
-  go to any browser and search http://loaclhost/' file project name '
+  go to any browser and search http://loaclhost/'file project name'
 ```
 
 
@@ -52,7 +52,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
 foreach ( $rows as $row ){
 	if ($name===$row['name']) {
-	 	# code...
+	 	
 	 
 echo "<div class='col-lg-6'>
 					<div class='details_image'>
