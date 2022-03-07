@@ -23,7 +23,7 @@ To deploy this project run
   add project to path C:\xampp\htdocs
 ```
 ```bash
-  go to any browser and search for http://loaclhost/'file project name'
+  go to any browser and search http://loaclhost/' file project name '
 ```
 
 
