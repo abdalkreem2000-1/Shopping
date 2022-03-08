@@ -35,6 +35,9 @@ Javascript, php, bootstrap...
 
 
 ## Usage/Examples
+This code receives the product name from the previous page and compares it with the database and returns thedata of the selected item and when you press
+ [add to cart ]
+ Add the item to the table name cart
 
 ```php
 <?php $name = $_GET['name'];
