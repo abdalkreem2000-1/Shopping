@@ -182,7 +182,7 @@
 								<div class="col">
 									<div class="home_slider_content"  data-animation-in="fadeIn" data-animation-out="animate-out fadeOut">
 										<div class="home_slider_title">Xiaomi Mi A3</div>
-										<div class="home_slider_subtitle">The Xiaomi Mi A3 is the third smartphone in the series of Mi A- smartphones developed by Xiaomi and co-developed by Google as part of its Android One initiative.</div>
+										<div class="home_slider_subtitle">The Xiaomi Mi A3 is the third smartphone in the series of Mi A- smartphones developed by Xiaomi and co-developed by Google as part of its Android One initiative..</div>
 										<div class="button button_light home_button"><a href="categories1.php">Shop Now</a></div>
 									</div>
 								</div>
